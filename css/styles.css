@@ -751,7 +751,6 @@ h1, h2, h3, h4, h5, h6, p, a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-
 }
 
 .footer-form{
@@ -759,7 +758,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 .footer-label{
-    gap: 24px;
+   
 }
 
 .footer-input{
@@ -797,5 +796,5 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .footer-svg-button{
     margin-left: 16px;
-    
+
 }
