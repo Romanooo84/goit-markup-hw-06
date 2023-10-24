@@ -739,3 +739,13 @@ h1, h2, h3, h4, h5, h6, p, a {
 .modal-close-button:focus{
     fill: #ffffff;
 }
+
+.footer-subscribe-paragraph{
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+
+}
