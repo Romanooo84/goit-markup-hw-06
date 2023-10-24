@@ -763,6 +763,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 .footer-input{
+    gap: 24px;
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
