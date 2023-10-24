@@ -798,3 +798,8 @@ h1, h2, h3, h4, h5, h6, p, a {
 .footer-svg-button{
     margin-left: 16px;
 }
+
+.modal-window-div-container{
+    padding: 72px 24px 24px 24px;
+    
+}
