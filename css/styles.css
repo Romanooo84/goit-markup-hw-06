@@ -893,11 +893,11 @@ h1, h2, h3, h4, h5, h6, p, a {
     margin-bottom: 24px;
 }
 
-.modal-terms-label-one{
-    display: block;
-}
 
-.modal-terms-label-two{
+
+.modal-terms-label{
+    display: block;
+    margin-bottom: 4px;
     font-size: 12px;
     line-height: 1.17; 
     letter-spacing: 0.04em; 
@@ -905,13 +905,23 @@ h1, h2, h3, h4, h5, h6, p, a {
 }
 
 .modal-terms-span{
-    width: 16px;
-    height: 16px;
-    border: 1px solid rgba(46, 47, 66, 0.4); 
-    border-radius: 2px;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+    border: 1px solid rgba(46, 47, 66, 0.4); 
+    border-radius: 2px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     fill: transparent;
+}
+
+.modal-link-terms{
+    color: var(--royalblue-color);
+}
+
+.modal-terms-svg{
+    width: 15px;
+    height: 15px;
 }
