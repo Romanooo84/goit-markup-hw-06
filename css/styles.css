@@ -757,11 +757,11 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 .footer-form{
     display: flex;
+    gap: 24px;
 }
 
 .footer-label{
     display: block;
-    margin-right: 24px;
 }
 
 .footer-input{
@@ -865,7 +865,7 @@ h1, h2, h3, h4, h5, h6, p, a {
     fill: #4D5AE5;
 }
 
-.user-name-input:focus .test{
-    fill: #4D5AE5; 
+.test:hover  .user-name-input{
+    border-color: #4D5AE5; 
 }
 
