@@ -892,10 +892,14 @@ h1, h2, h3, h4, h5, h6, p, a {
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);  
 }
 
+.modal-textarea:focus,
+.modal-textarea:active{
+    border-color: #4D5AE5;
+}
+
 .modal-terms-div{
     margin-bottom: 24px;
 }
-
 
 
 .modal-terms-label{
