@@ -957,3 +957,8 @@ h1, h2, h3, h4, h5, h6, p, a {
     border: none;
     fill: var(--lavenderblue-color);
 }
+
+.modal-use-svg-size{
+    height: 12px;
+    width: 12px;
+}
