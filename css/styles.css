@@ -962,3 +962,8 @@ h1, h2, h3, h4, h5, h6, p, a {
     height: 12px;
     width: 12px;
 }
+
+.footer-subscribe-send-svg{
+    width: 24px;
+    height: 24px;
+}
